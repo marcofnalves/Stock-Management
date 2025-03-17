@@ -5,3 +5,4 @@ Version 0.0.1 Beta
   - Now the Categories shows on Pop-up ( If you click on one filter card don't hide the filters just need close the pop-up. If you want debit or add quantity hide the pop-up and then shows the pop-up of action. When close that pop-up return the previous pop-up ).
   - Adding filter on Management of Stocks
   - Added new system of notifications
+  - Added new style of pop-ups
